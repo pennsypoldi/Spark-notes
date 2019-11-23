@@ -1,1 +1,1 @@
-This would record my learning experience of ZooKeeper.
+ZooKeeper是Google的Chubby项目的开源实现，它曾作为Hadoop的子项目。
